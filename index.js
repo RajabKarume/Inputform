@@ -19,6 +19,8 @@ function addItem(){
     }
 }
 
+
+
 // function addItem(event) {
 //     secondName.textContent = `Form Submitted! Time stamp: ${event.timeStamp}`;
 //     event.preventDefault();
